@@ -1,4 +1,5 @@
 # SpoofLink
+The entire code is in /code directory
 This is a spoof Webpage to extract the location and image of Scammers.
 The entire code is in HTML+PHP.
 The first page is Payment.html that will be load and server page is save_payment.php
